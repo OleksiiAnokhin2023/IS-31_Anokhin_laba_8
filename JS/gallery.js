@@ -1,6 +1,6 @@
 const images = [
     {
-      preview: '/img/small/img1.jpg',
+      preview: 'https://oleksiianokhin2023.github.io/img/small/img1.jpg',
       original: '/img/big/img1.png',
       description: 'Перше зображення',
     },
