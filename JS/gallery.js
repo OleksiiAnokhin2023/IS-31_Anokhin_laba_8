@@ -1,11 +1,11 @@
 const images = [
     {
-      preview: '/IS-31_Anokhin_laba_8/img/small/img1.jpg',
+      preview: 'img/small/img1.jpg',
       original: '/img/big/img1.png',
       description: 'Перше зображення',
     },
     {
-      preview: '/img/small/img2.jpg',
+      preview: 'img/small/img2.jpg',
       original: '/img/big/img2.png',
       description: 'Друге зображення',
     },
