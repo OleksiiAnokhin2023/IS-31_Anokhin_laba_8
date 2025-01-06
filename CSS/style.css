@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+  }
+
+  .gallery__item {
+    flex: 1 1 calc(33.333% - 10px);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  .gallery__image {
+    width: 100%;
+    height: auto;
+    display: block;
+    cursor: pointer;
+  }
